@@ -1,0 +1,181 @@
+Movie_id,Genre,Director,Casting,Year_of_Release,Country_of_Origin,Nomination_Awards,Length_min
+1,Action,Director D,"Actor Z, Actor W",2011,Korea,Oscar Nominee,121
+2,Drama,Director C,"Actor X, Actor Y",2008,Japan,Oscar Winner,168
+3,Action,Director A,"Actor S, Actor T",2014,France,Oscar Nominee,171
+4,Action,Director D,"Actor Q, Actor R",2003,France,Oscar Winner,81
+5,Thriller,Director D,"Actor Z, Actor W",2016,USA,None,99
+6,Thriller,Director A,"Actor Z, Actor W",2021,Korea,None,174
+7,Sci-Fi,Director C,"Actor Z, Actor W",2016,France,None,174
+8,Horror,Director D,"Actor Z, Actor W",2014,France,Golden Globe,155
+9,Romance,Director C,"Actor Q, Actor R",2011,USA,Oscar Nominee,173
+10,Sci-Fi,Director D,"Actor S, Actor T",2015,Korea,Festival Award,167
+11,Sci-Fi,Director D,"Actor Q, Actor R",2016,UK,Oscar Nominee,68
+12,Sci-Fi,Director A,"Actor S, Actor T",2005,Japan,None,149
+13,Drama,Director C,"Actor Q, Actor R",2022,France,Festival Award,145
+14,Horror,Director B,"Actor S, Actor T",2008,USA,None,162
+15,Comedy,Director A,"Actor S, Actor T",2009,France,Festival Award,108
+16,Thriller,Director C,"Actor Z, Actor W",2002,France,Golden Globe,131
+17,Sci-Fi,Director C,"Actor Q, Actor R",2000,UK,None,112
+18,Comedy,Director D,"Actor Z, Actor W",2015,France,None,75
+19,Drama,Director A,"Actor S, Actor T",2019,Japan,Golden Globe,94
+20,Sci-Fi,Director D,"Actor Q, Actor R",2006,France,Oscar Winner,102
+21,Action,Director D,"Actor X, Actor Y",2006,Korea,None,106
+22,Sci-Fi,Director C,"Actor Z, Actor W",2008,France,Oscar Nominee,72
+23,Horror,Director A,"Actor Z, Actor W",2006,Korea,Golden Globe,63
+24,Sci-Fi,Director A,"Actor X, Actor Y",2007,Korea,Oscar Winner,91
+25,Sci-Fi,Director A,"Actor Q, Actor R",2001,France,None,135
+26,Documentary,Director A,"Actor Z, Actor W",2005,Korea,Festival Award,61
+27,Comedy,Director C,"Actor S, Actor T",2010,Korea,None,96
+28,Comedy,Director B,"Actor X, Actor Y",2003,UK,None,118
+29,Documentary,Director A,"Actor S, Actor T",2006,Japan,Golden Globe,61
+30,Thriller,Director B,"Actor Z, Actor W",2006,France,Oscar Winner,100
+31,Sci-Fi,Director C,"Actor Q, Actor R",2014,USA,None,124
+32,Horror,Director B,"Actor Q, Actor R",2015,USA,Oscar Nominee,121
+33,Thriller,Director D,"Actor Q, Actor R",2011,USA,Oscar Winner,121
+34,Drama,Director D,"Actor S, Actor T",2021,UK,Golden Globe,129
+35,Sci-Fi,Director D,"Actor X, Actor Y",2001,Japan,Festival Award,74
+36,Horror,Director C,"Actor Z, Actor W",2002,Japan,Oscar Winner,65
+37,Documentary,Director D,"Actor S, Actor T",2001,UK,Festival Award,168
+38,Romance,Director A,"Actor X, Actor Y",2014,France,Festival Award,121
+39,Documentary,Director C,"Actor Z, Actor W",2001,USA,Golden Globe,171
+40,Horror,Director D,"Actor X, Actor Y",2020,Korea,Festival Award,66
+41,Action,Director D,"Actor S, Actor T",2020,France,Golden Globe,147
+42,Horror,Director B,"Actor Z, Actor W",2003,USA,Oscar Nominee,110
+43,Documentary,Director A,"Actor Q, Actor R",2013,UK,Oscar Winner,75
+44,Horror,Director A,"Actor S, Actor T",2000,France,None,150
+45,Sci-Fi,Director B,"Actor Q, Actor R",2011,Korea,Oscar Winner,68
+46,Comedy,Director C,"Actor Z, Actor W",2022,Japan,Golden Globe,71
+47,Thriller,Director D,"Actor Q, Actor R",2003,Korea,None,157
+48,Drama,Director C,"Actor Q, Actor R",2023,France,Oscar Nominee,97
+49,Drama,Director B,"Actor Z, Actor W",2015,France,Festival Award,96
+50,Documentary,Director B,"Actor S, Actor T",2016,France,Golden Globe,95
+51,Horror,Director B,"Actor Q, Actor R",2005,USA,Festival Award,118
+52,Horror,Director D,"Actor Q, Actor R",2003,UK,None,110
+53,Romance,Director B,"Actor Q, Actor R",2003,Korea,Golden Globe,120
+54,Romance,Director D,"Actor Q, Actor R",2011,Korea,Festival Award,166
+55,Comedy,Director C,"Actor X, Actor Y",2007,Japan,Oscar Nominee,117
+56,Documentary,Director D,"Actor S, Actor T",2001,USA,Oscar Nominee,152
+57,Thriller,Director D,"Actor Q, Actor R",2018,Japan,Oscar Nominee,104
+58,Documentary,Director A,"Actor S, Actor T",2017,USA,Oscar Nominee,93
+59,Action,Director D,"Actor S, Actor T",2001,USA,Oscar Winner,114
+60,Romance,Director C,"Actor X, Actor Y",2019,USA,None,69
+61,Thriller,Director C,"Actor Q, Actor R",2007,Japan,Oscar Winner,87
+62,Thriller,Director C,"Actor S, Actor T",2005,Korea,Festival Award,170
+63,Sci-Fi,Director A,"Actor X, Actor Y",2000,Japan,Oscar Nominee,108
+64,Comedy,Director D,"Actor Z, Actor W",2016,USA,None,67
+65,Drama,Director A,"Actor Q, Actor R",2003,UK,Oscar Nominee,67
+66,Romance,Director A,"Actor Z, Actor W",2013,UK,Oscar Nominee,107
+67,Action,Director A,"Actor S, Actor T",2002,Korea,None,121
+68,Documentary,Director B,"Actor Q, Actor R",2010,UK,Festival Award,60
+69,Horror,Director C,"Actor Q, Actor R",2022,UK,Oscar Nominee,149
+70,Documentary,Director C,"Actor X, Actor Y",2009,USA,None,107
+71,Comedy,Director C,"Actor S, Actor T",2007,Korea,Oscar Winner,115
+72,Drama,Director C,"Actor X, Actor Y",2016,UK,Oscar Nominee,89
+73,Thriller,Director D,"Actor Z, Actor W",2006,UK,Festival Award,70
+74,Sci-Fi,Director C,"Actor X, Actor Y",2003,Korea,Oscar Nominee,119
+75,Sci-Fi,Director C,"Actor S, Actor T",2021,France,Festival Award,105
+76,Thriller,Director A,"Actor S, Actor T",2004,France,Oscar Nominee,176
+77,Romance,Director C,"Actor Z, Actor W",2012,Korea,Festival Award,63
+78,Comedy,Director B,"Actor X, Actor Y",2003,Japan,Oscar Winner,102
+79,Action,Director A,"Actor S, Actor T",2014,UK,Oscar Winner,72
+80,Romance,Director A,"Actor Q, Actor R",2021,USA,Golden Globe,92
+81,Romance,Director B,"Actor S, Actor T",2016,UK,None,168
+82,Drama,Director A,"Actor Z, Actor W",2009,USA,Festival Award,104
+83,Romance,Director D,"Actor Q, Actor R",2010,Japan,None,172
+84,Action,Director D,"Actor Q, Actor R",2011,Korea,Golden Globe,138
+85,Action,Director C,"Actor X, Actor Y",2022,USA,Festival Award,120
+86,Thriller,Director D,"Actor X, Actor Y",2005,Korea,None,105
+87,Action,Director B,"Actor Q, Actor R",2011,Korea,Festival Award,172
+88,Action,Director B,"Actor Q, Actor R",2014,Korea,Oscar Winner,164
+89,Comedy,Director B,"Actor Z, Actor W",2014,Korea,None,176
+90,Sci-Fi,Director D,"Actor X, Actor Y",2014,USA,Oscar Nominee,116
+91,Comedy,Director D,"Actor Q, Actor R",2014,Japan,Festival Award,76
+92,Romance,Director D,"Actor S, Actor T",2021,Japan,Oscar Winner,165
+93,Sci-Fi,Director C,"Actor S, Actor T",2014,UK,Oscar Nominee,154
+94,Thriller,Director A,"Actor Q, Actor R",2001,UK,Oscar Nominee,177
+95,Action,Director A,"Actor S, Actor T",2004,Japan,None,108
+96,Romance,Director D,"Actor Z, Actor W",2021,France,Golden Globe,110
+97,Thriller,Director C,"Actor Z, Actor W",2023,France,Oscar Winner,118
+98,Comedy,Director B,"Actor Q, Actor R",2007,UK,Festival Award,87
+99,Sci-Fi,Director C,"Actor Q, Actor R",2009,Japan,Oscar Nominee,150
+100,Thriller,Director B,"Actor Z, Actor W",2006,Japan,Oscar Winner,132
+101,Thriller,Director B,"Actor S, Actor T",2023,Japan,None,152
+102,Thriller,Director B,"Actor Q, Actor R",2015,UK,Oscar Nominee,153
+103,Horror,Director B,"Actor Q, Actor R",2020,France,Oscar Nominee,107
+104,Comedy,Director C,"Actor S, Actor T",2000,UK,Festival Award,83
+105,Comedy,Director D,"Actor Q, Actor R",2020,France,Golden Globe,100
+106,Drama,Director C,"Actor S, Actor T",2009,UK,Festival Award,154
+107,Sci-Fi,Director D,"Actor Z, Actor W",2014,France,Golden Globe,72
+108,Horror,Director D,"Actor Q, Actor R",2006,UK,Oscar Winner,79
+109,Horror,Director D,"Actor Q, Actor R",2006,USA,Golden Globe,113
+110,Horror,Director B,"Actor Q, Actor R",2003,Korea,Oscar Winner,159
+111,Thriller,Director A,"Actor X, Actor Y",2014,France,Festival Award,67
+112,Action,Director C,"Actor Z, Actor W",2014,UK,Oscar Winner,170
+113,Thriller,Director D,"Actor S, Actor T",2021,USA,Oscar Winner,85
+114,Thriller,Director A,"Actor Z, Actor W",2001,USA,Oscar Winner,92
+115,Action,Director C,"Actor Z, Actor W",2003,UK,Golden Globe,159
+116,Romance,Director B,"Actor Z, Actor W",2014,UK,None,70
+117,Thriller,Director C,"Actor Z, Actor W",2016,UK,Oscar Winner,107
+118,Action,Director C,"Actor Z, Actor W",2007,Japan,Festival Award,72
+119,Documentary,Director C,"Actor Q, Actor R",2021,Japan,Oscar Winner,94
+120,Action,Director D,"Actor Z, Actor W",2008,Korea,Festival Award,93
+121,Sci-Fi,Director A,"Actor Q, Actor R",2020,France,Festival Award,124
+122,Drama,Director B,"Actor S, Actor T",2022,UK,Oscar Winner,125
+123,Sci-Fi,Director A,"Actor Q, Actor R",2003,France,Golden Globe,104
+124,Action,Director C,"Actor S, Actor T",2013,USA,Festival Award,169
+125,Horror,Director B,"Actor S, Actor T",2001,USA,None,78
+126,Thriller,Director A,"Actor Z, Actor W",2018,France,Oscar Nominee,162
+127,Thriller,Director B,"Actor Q, Actor R",2002,France,Festival Award,151
+128,Sci-Fi,Director B,"Actor Q, Actor R",2012,UK,Oscar Winner,128
+129,Romance,Director C,"Actor Q, Actor R",2003,USA,None,103
+130,Drama,Director B,"Actor X, Actor Y",2015,UK,Oscar Nominee,139
+131,Documentary,Director C,"Actor X, Actor Y",2020,UK,None,147
+132,Thriller,Director B,"Actor X, Actor Y",2003,Korea,Festival Award,96
+133,Thriller,Director B,"Actor Z, Actor W",2008,France,Oscar Nominee,141
+134,Action,Director D,"Actor S, Actor T",2010,France,Festival Award,168
+135,Thriller,Director A,"Actor Q, Actor R",2017,UK,None,148
+136,Horror,Director D,"Actor Z, Actor W",2018,USA,Golden Globe,116
+137,Sci-Fi,Director A,"Actor S, Actor T",2000,Korea,Oscar Winner,72
+138,Documentary,Director D,"Actor X, Actor Y",2015,UK,None,95
+139,Drama,Director C,"Actor S, Actor T",2018,France,None,110
+140,Horror,Director D,"Actor Q, Actor R",2000,France,Oscar Nominee,146
+141,Comedy,Director A,"Actor X, Actor Y",2023,UK,Golden Globe,115
+142,Drama,Director C,"Actor X, Actor Y",2005,Korea,None,166
+143,Drama,Director D,"Actor Q, Actor R",2012,USA,Oscar Winner,115
+144,Action,Director B,"Actor Z, Actor W",2020,UK,None,142
+145,Sci-Fi,Director C,"Actor Z, Actor W",2001,France,Oscar Nominee,129
+146,Action,Director A,"Actor Z, Actor W",2009,Japan,Oscar Winner,102
+147,Horror,Director B,"Actor Z, Actor W",2009,UK,Festival Award,138
+148,Drama,Director D,"Actor X, Actor Y",2000,Japan,Oscar Winner,153
+149,Documentary,Director D,"Actor S, Actor T",2011,UK,Oscar Winner,61
+150,Sci-Fi,Director A,"Actor X, Actor Y",2018,Japan,Golden Globe,146
+151,Comedy,Director B,"Actor S, Actor T",2025,USA,Festival Award,70
+152,Drama,Director A,"Actor S, Actor T",2025,USA,Oscar Nominee,163
+153,Action,Director C,"Actor S, Actor T",2025,UK,None,144
+154,Romance,Director B,"Actor Z, Actor W",2025,Japan,Festival Award,64
+155,Thriller,Director D,"Actor S, Actor T",2025,UK,Festival Award,78
+156,Thriller,Director B,"Actor Z, Actor W",2025,France,Oscar Nominee,73
+157,Thriller,Director B,"Actor S, Actor T",2025,France,None,77
+158,Comedy,Director A,"Actor X, Actor Y",2025,Korea,Oscar Winner,80
+159,Drama,Director C,"Actor Z, Actor W",2025,Korea,Oscar Winner,155
+160,Drama,Director B,"Actor S, Actor T",2025,USA,None,112
+161,Comedy,Director D,"Actor Q, Actor R",2025,Korea,Festival Award,88
+162,Thriller,Director A,"Actor Q, Actor R",2025,Korea,Oscar Nominee,85
+163,Romance,Director C,"Actor Q, Actor R",2025,France,None,102
+164,Comedy,Director C,"Actor S, Actor T",2025,Japan,Oscar Winner,112
+165,Horror,Director D,"Actor S, Actor T",2025,Japan,None,127
+166,Action,Director C,"Actor X, Actor Y",2025,France,None,119
+167,Thriller,Director B,"Actor Z, Actor W",2025,USA,Oscar Winner,77
+168,Comedy,Director B,"Actor Q, Actor R",2025,Korea,None,70
+169,Thriller,Director B,"Actor S, Actor T",2025,Japan,Oscar Winner,175
+170,Horror,Director D,"Actor S, Actor T",2025,Korea,Oscar Winner,160
+171,Thriller,Director A,"Actor Z, Actor W",2025,France,Festival Award,72
+172,Action,Director C,"Actor Q, Actor R",2025,France,None,118
+173,Drama,Director B,"Actor Q, Actor R",2025,USA,Festival Award,90
+174,Action,Director C,"Actor Q, Actor R",2025,France,Oscar Nominee,179
+175,Sci-Fi,Director D,"Actor Q, Actor R",2025,France,Oscar Winner,73
+176,Romance,Director A,"Actor S, Actor T",2025,USA,Festival Award,73
+177,Sci-Fi,Director B,"Actor S, Actor T",2025,USA,Golden Globe,131
+178,Drama,Director C,"Actor X, Actor Y",2025,Korea,Golden Globe,122
+179,Horror,Director C,"Actor Z, Actor W",2025,Japan,Oscar Nominee,77
+180,Thriller,Director D,"Actor Z, Actor W",2025,Japan,Oscar Nominee,162
